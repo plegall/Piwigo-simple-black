@@ -1,0 +1,13 @@
+body { 
+  background-color: #111;
+  color: #666;
+}
+
+#content {
+  background-color: #222;
+  border-color: #555;
+}
+
+#theImage img {
+  border-width: 4px;
+}
