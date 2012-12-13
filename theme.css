@@ -11,3 +11,8 @@ body {
 #theImage img {
   border-width: 4px;
 }
+
+#theImageAndInfos, #thePicturePage #comments {
+  background-color: #222222;
+  border-top: 2px solid #555555;
+}
