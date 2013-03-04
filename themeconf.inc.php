@@ -1,7 +1,7 @@
 <?php
 /*
 Theme Name: Simple Black
-Version: 2.1a
+Version: auto
 Description: Black (very dark gray) theme for Simple
 Theme URI: http://piwigo.org/ext/extension_view.php?eid=347
 Author: Fresdy
